@@ -1,8 +1,50 @@
-## Olá, Bem-vindo!👋
+# Olá, eu sou o Ayron! 👋
 
-![Status](https://github-readme-stats.vercel.app/api?username=AyronMT&show_icons=true&theme=radical)
+Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir soluções eficientes e expandir constantemente meu repertório técnico. Atualmente, dedico meus estudos ao desenvolvimento de software, análise de dados e lógica de programação.
 
-- 🔭 Eu estou atualmente trabalhando em meu [Projeto Integrador: Um Aplicativo Mobile de Monitoramento de Leitura](https://github.com/AyronMT/Monitoramento-de-Leitura).
-- 🌱 Eu estou atualmente aprendendo [Dart](https://github.com/AyronMT/Atividades-de-TAPWM), [Flutter](https://github.com/AyronMT/Curso-de-Flutter-e-Dart), C, [C++](https://www.udemy.com/course-dashboard-redirect/?course_id=1692520), [C#](https://www.udemy.com/course-dashboard-redirect/?course_id=1088442), [Java](https://github.com/AyronMT/Atividades-de-TAP), UX, [Javascript](https://www.udemy.com/course-dashboard-redirect/?course_id=2576102) e [Lua](https://www.udemy.com/course-dashboard-redirect/?course_id=4943490).
-- 📫 Como me contatar: [E-mail](ayronmt@gmail.com)
-- 😄 Pronomes: Ele/Dele.
+---
+
+### 💻 Sobre Mim
+
+- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+- 🚀 No momento, estou focado no meu **Projeto Integrador**: um aplicativo mobile voltado para o monitoramento de leitura.
+- 🤝 Disponível para colaborações em projetos de **Desenvolvimento Web**.
+- ♟️ Nas horas vagas, sou entusiasta de xadrez e um leitor assíduo.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens e Frameworks:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Em constante aprendizado (Learning Mode):**
+* **Mobile & Games:** Dart, Flutter e C# para jogos.
+* **Web & Scripting:** JavaScript e Lua.
+* **Dados:** Excel e Power BI.
+* **Low-level:** C.
+
+**Roadmap (Próximos passos):**
+* Python, React, Spring Boot e PHP.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyronMT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+### 📫 Contato
+
+Sinta-se à vontade para entrar em contato para conversas sobre tecnologia ou oportunidades de colaboração:
+
+- 📧 **E-mail:** ayronmt@gmail.com
