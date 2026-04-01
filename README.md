@@ -25,12 +25,20 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir sol
 
 **Em constante aprendizado (Learning Mode):**
 * **Mobile & Games:** Dart, Flutter e C# para jogos.
-* **Web & Scripting:** JavaScript e Lua.
+* **Web & Scripting:** Java.
 * **Dados:** Excel e Power BI.
 * **Low-level:** C.
 
+**Projetos em andamento:**
+* [**Monitoramento de Leitura:**](https://github.com/AyronMT/Monitoramento-de-Leitura) Dart e Flutter.
+
+* **Repositórios Utilizados Durante Aula:**
+* [**Programação em Javascript do Básico ao Avançado:**](https://www.udemy.com/course-dashboard-redirect/?course_id=2576102) Javascript | 27h.
+* [**Programação em Java do Básico ao Avançado:**](https://www.udemy.com/course-dashboard-redirect/?course_id=1876394) Java | 34,5h.
+* [**Aprendendo Programação Básica ao Avançado com C++:**](https://www.udemy.com/course-dashboard-redirect/?course_id=1692520) C++ | 20,5h.
+* [**Curso de Programação em Lua:**](https://www.udemy.com/course-dashboard-redirect/?course_id=4943490) Lua | 35,9h.
 **Roadmap (Próximos passos):**
-* Python, React, Spring Boot e PHP.
+* Python, React, Spring Boot, Power BI, Excel e PHP.
 
 ---
 
