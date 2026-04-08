@@ -57,4 +57,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir sol
 
 Sinta-se à vontade para entrar em contato para conversas sobre tecnologia ou oportunidades de colaboração:
 
-- 📧 **E-mail:** ayronmt@gmail.com
+- 📧 **E-mail:** ayronfdsilva@gmail.com
