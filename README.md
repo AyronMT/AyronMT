@@ -45,8 +45,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir sol
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyronMT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyronMT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyronMT&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
