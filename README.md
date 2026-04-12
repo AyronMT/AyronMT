@@ -41,9 +41,11 @@
 ### 📂 Projetos e Estudos
 
 **🚀 Projetos em Destaque:**
+> *Maior e mais promissor projeto do momento.*
 * 📚 [**Monitoramento de Leitura**](https://github.com/AyronMT/Monitoramento-de-Leitura) - Aplicativo desenvolvido em Dart e Flutter. *(Projeto Integrador)*
 
-**📚 Repositórios de Escola (Minhas Atividades):**
+**🏫 Repositórios de Escola (Minhas Atividades):**]
+> *Nota: Aqui estão os repositórios onde guardou meus exercícios praticados durante aula.*
 * ☕ [**Técnicas Avançadas de Programação**](https://github.com/AyronMT/Tecnicas-Avancadas-de-Programacao) - Java.
 * 🐝 [**BeeCrowd**](https://github.com/AyronMT/Tecnicas-Avancadas-de-Programacao-Mobile) - C.
 * 💻 [**Técnicas Avançadas de Programação Web e Mobile**](https://github.com/AyronMT/Flutter-e-Dart) - Dart e Flutter.
